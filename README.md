@@ -36,7 +36,7 @@ To replicate the analyses:
 1.Clone the Repository:
 ```bash
 git clone https://github.com/nikitasonkin/data-project.git
-
+```
 
 2.Navigate to the Project Directory:
 
