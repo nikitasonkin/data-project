@@ -14,12 +14,12 @@ This project delves into the analysis of happiness and health indicators across 
 
 ## Key Insights
 
--`-The visualizations and analyses reveal several noteworthy patterns:​`
--`-Correlation between GDP and Happiness: Countries with higher GDP per capita tend to report higher happiness scores.`
--`-Impact of Social Support: Strong social support networks are associated with increased life satisfaction.`
--`-Effect of Corruption: Lower levels of perceived corruption correlate with higher happiness levels.`
--`-Life Expectancy Trends: Longer life expectancy is generally linked to greater happiness.​`
--`-These insights are visualized through various graphs, including scatter plots, bar charts, and cluster diagrams, providing a comprehensive view of the data.​`
+-`The visualizations and analyses reveal several noteworthy patterns:​`
+-`Correlation between GDP and Happiness: Countries with higher GDP per capita tend to report higher happiness scores.`
+-`Impact of Social Support: Strong social support networks are associated with increased life satisfaction.`
+-`Effect of Corruption: Lower levels of perceived corruption correlate with higher happiness levels.`
+-`Life Expectancy Trends: Longer life expectancy is generally linked to greater happiness.​`
+-`These insights are visualized through various graphs, including scatter plots, bar charts, and cluster diagrams, providing a comprehensive view of the data.​`
 
 ## Technologies Used
 `Programming Language: Python`
