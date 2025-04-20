@@ -36,13 +36,13 @@ To replicate the analyses:
 1.Clone the Repository:
 ```bash
 git clone https://github.com/nikitasonkin/data-project.git
-```
+
 
 2.Navigate to the Project Directory:
 
 ```bash
 cd data-project
-
+```
 
 3.Install Required Libraries: Ensure you have the necessary Python libraries installed. You can use pip:
 ```bash
